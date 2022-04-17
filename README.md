@@ -5,7 +5,7 @@ This is a collection of all logos for my products
 ## ALLOWED
 * Using these logos if you made a collab with me
 * Using as crediting me for the original project
-* Adding these logoes to the donation list
+* Adding these logos to the donation list
 
 ## DISALLOWED
 * Using the logos for other purposes
